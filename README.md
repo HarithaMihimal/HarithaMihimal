@@ -28,5 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HarithaMihimal&show_icons=true&locale=en&cache_bust=1" alt="HarithaMihimal" /></p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarithaMihimal&show_icons=true&locale=en&cache_bust=1)
+
 
