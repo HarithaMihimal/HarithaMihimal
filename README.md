@@ -16,7 +16,7 @@
                       
 - ⚡ Fun fact **Why do programmers prefer dark mode? Because the light attracts bugs!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: harithamihimal4@gmail.com</h3>
 <p align="left">
 </p>
 
