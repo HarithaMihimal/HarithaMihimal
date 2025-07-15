@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haritha Mihimal Wilwala Arachchi👋</h1>
 <h3 align="center">Computer Science and Engineering(Specialized in Data Science and Engineering) Undergraduate at University of Moratuwa </h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fcoding-gifs-aesthetic%2F896913177658%2F&psig=AOvVaw2JAY61oaFL0lTUApMyoMa-&ust=1752696020649000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqGAoTCJCg9NXTv44DFQAAAAAdAAAAABC7AQ">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 
 
